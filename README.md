@@ -15,3 +15,7 @@ It is a restaurant website with dynamic pages connected to a MySQL database.
    ```bash
    git clone https://github.com/<your-username>/myrestaurant-laravel.git
    cd myrestaurant-laravel
+
+## Screenshots
+![Home](public/screenshots/home.png)
+![Menu](public/screenshots/menu.png)

@@ -17,5 +17,5 @@ It is a restaurant website with dynamic pages connected to a MySQL database.
    cd myrestaurant-laravel
 
 ## Screenshots
-![Home](public/screenshots/home.png)
+![Home](public/screenshots/homepage.png)
 ![Menu](public/screenshots/menu.png)
